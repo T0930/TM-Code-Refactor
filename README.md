@@ -1,9 +1,15 @@
 
-# Homework 1: Code Refactor Submittal
+# Homework 1: Code Refactor
 
-### Please see refactored code containing added semantics and minor fix to search engine optimization link.
+## NOTE: Please see refactored code containing the following:
 
-## Screen Shot:  
+* Added semantic HTML elements
+* Added alt attributes
+* Updated title
+* Fix to "search engine optimization link"
 
+# Screen Shot:  
+![Preview](assets\images\hw1screenshot.png)
 
-## Deployed Website:
+# Deployed Website:
+[TM-Code-Refactor](https://t0930.github.io/TM-Code-Refactor/)
